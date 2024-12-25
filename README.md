@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Prince ;
 - 👀 I’m interested in coding;
 - 🌱 I’m good in problem solving DSA in java language;
-- 💞️ Currently I'm persuing doing btech;
+- 💞️ Currently I'm persuing btech;
 - 📫 i love to talk peoples so to reach me contact on email-prk988110@gmail.com;
 - 😄 Pronouns: "He" | "Him" ;
   
