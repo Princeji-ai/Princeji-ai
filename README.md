@@ -1,5 +1,5 @@
 ### <width="50"> A little more about me...  
-- 👋 Hi, I’m Prince ;
+- 👋 Hi, I’m Prince Kumar;
 - 👀 I’m interested in coding;
 - 🌱 I’m good in problem solving DSA in java language;
 - 💞️ Currently I'm persuing btech;
